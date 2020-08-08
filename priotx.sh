@@ -15,7 +15,7 @@ echo -e "${Cyan}
 |  _  |___|_|   | |_ _ _ 
 |   __|  _| | | |  _|_'_|
 |__|  |_| |_|___|_| |_,_|
-                        @mehedi1194
+                        @remonsec
 
 Get endpoints from #AlienVault
 Open_Threat_Exchange for fun & profit
